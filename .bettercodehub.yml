@@ -1,0 +1,34 @@
+component_depth: 1
+languages:
+- java
+exclude:
+- ./bin/.*
+- ./bin/net/.*
+- ./bin/org/.*
+- ./bin/org/ganttproject/.*
+- ./bin/org/ganttproject/chart/.*
+- ./bin/org/ganttproject/chart/pert/.*
+- ./bin/org/ganttproject/impex/.*
+- ./bin/org/ganttproject/impex/htmlpdf/.*
+- ./bin/org/ganttproject/impex/htmlpdf/fonts/.*
+- ./bin/org/ganttproject/impex/msproject/.*
+- ./bin/org/w3c/.*
+- ./bin/org/w3c/util/.*
+- ./ganttproject/.*
+- ./ganttproject/data/.*
+- ./ganttproject/lib/.*
+- ./ganttproject/lib/core/.*
+- ./ganttproject/lib/core/licenses/.*
+- ./ganttproject/lib/development/.*
+- ./ganttproject/lib/development/licenses/.*
+- ./ganttproject/lib/optional/.*
+- ./ganttproject/lib/optional/licenses/.*
+- ./ganttproject/test/.*
+- ./ganttproject/test/net/.*
+- ./ganttproject-builder/.*
+- ./org.ganttproject.chart.pert/.*
+- ./org.ganttproject.impex.htmlpdf/.*
+- ./org.ganttproject.impex.htmlpdf/lib/.*
+- ./org.ganttproject.impex.msproject/.*
+- ./org.ganttproject.impex.msproject/lib/.*
+- ./org.ganttproject.impex.msproject/lib/mpxj/.*
